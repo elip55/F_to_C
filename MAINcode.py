@@ -5,4 +5,4 @@ c = int(input("Input the degrees in fahrenheight: "))
 f = (c-32)*0.5555555555
 print("The degrees in celcius is: ")
 print(f)
-print("OMG I'M DOING THE GIT STUFF")
+print("OMG I'M DOING THE GIT STUFF, good for me")
