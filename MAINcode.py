@@ -1,5 +1,5 @@
-from src.calc import calculator
+from src.calc import intro, calc
 
 
-calculator.intro()
-calculator.calc()
+intro()
+calc()
