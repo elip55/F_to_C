@@ -1,7 +1,5 @@
-from src.calc import calc
+from src.calc import calculator
 
-def output():
-    print("This progam will take fahrenheight and change it to celcius. ")
 
-output()
-calc()
+calculator.intro()
+calculator.calc()
